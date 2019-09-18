@@ -1,0 +1,36 @@
+{
+  "name": "tdd-jest",
+  "version": "1.0.0",
+  "description": "Test-driven development (TDD) using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvedataydin/tdd-jest.git"
+  },
+  "author": "M. Vedat AYDIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvedataydin/tdd-jest/issues"
+  },
+  "homepage": "https://github.com/mvedataydin/tdd-jest#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "babel-jest": "^24.9.0"
+  }
+}
